@@ -1,0 +1,17 @@
+D:\C#\ProjetoONG\ProjetoONG\bin\Debug\net7.0-windows\ProjetoONG.exe
+D:\C#\ProjetoONG\ProjetoONG\bin\Debug\net7.0-windows\ProjetoONG.deps.json
+D:\C#\ProjetoONG\ProjetoONG\bin\Debug\net7.0-windows\ProjetoONG.runtimeconfig.json
+D:\C#\ProjetoONG\ProjetoONG\bin\Debug\net7.0-windows\ProjetoONG.dll
+D:\C#\ProjetoONG\ProjetoONG\bin\Debug\net7.0-windows\ProjetoONG.pdb
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.CadastroProfissionais.resources
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.Form1.resources
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.csproj.GenerateResource.cache
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.AssemblyInfoInputs.cache
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.AssemblyInfo.cs
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.csproj.CoreCompileInputs.cache
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.dll
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\refint\ProjetoONG.dll
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.pdb
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ProjetoONG.genruntimeconfig.cache
+D:\C#\ProjetoONG\ProjetoONG\obj\Debug\net7.0-windows\ref\ProjetoONG.dll
